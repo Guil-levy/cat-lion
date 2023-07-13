@@ -1,0 +1,31 @@
+.cats{
+size: 200px;
+}
+
+.About{
+    size: 130px;
+}
+
+
+.breeds{
+    background-color: yellow;
+}
+
+.senses{
+    font: 600px;
+    margin: 60px;
+}
+
+.liste1{
+    margin-left: 200px;
+   
+}
+
+.media{
+    text-align: center;
+}
+.picture{
+    text-align: center;
+    border: 30px solid red;
+}
+
